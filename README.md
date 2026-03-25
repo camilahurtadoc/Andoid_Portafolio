@@ -72,6 +72,7 @@ Aplicación que consume una API para explorar terrenos en Marte.
 ## 📬 Contacto
 
 📧 [camilahurtadoc@gmail.com](mailto:camilahurtadoc@gmail.com)
+
 🔗 LinkedIn: ([https://www.linkedin.com/in/camila-hurtado-2200a233/](https://www.linkedin.com/in/camila-hurtado-2200a233/))
 
 ---
