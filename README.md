@@ -62,7 +62,7 @@ Aplicación para ver información de distintos animales.
 * Selección de animales
 * Envío de información vía mail
 
-🔗 Ver proyecto: *([Mars API en GitHub](https://github.com/camilahurtadoc/M6_Ev_Final_Zoo_App))*
+🔗 Ver proyecto: *([Zoo App en GitHub](https://github.com/camilahurtadoc/M6_Ev_Final_Zoo_App))*
 
 ---
 
