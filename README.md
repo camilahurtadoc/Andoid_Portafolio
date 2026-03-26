@@ -32,7 +32,7 @@ Aplicación de billetera virtual que permite a los usuarios gestionar sus finanz
 * Registro de transacciones
 * Persistencia de datos (historial de operaciones)
 
-🔗 Ver proyecto: *([Dollar App en GitHub]())*
+🔗 Ver proyecto: *([Dollar App en GitHub](https://github.com/camilahurtadoc/Android_Dollar_App))*
 
 ---
 
@@ -48,6 +48,21 @@ Aplicación que consume una API para explorar terrenos en Marte.
 * Persistencia de favoritos
 
 🔗 Ver proyecto: *([Mars API en GitHub](https://github.com/camilahurtadoc/Android_Proyecto_Final_MarsAPI))*
+
+---
+
+### 🐯 Zoo App
+
+Aplicación para ver información de distintos animales.
+
+**Funcionalidades:**
+
+* Consumo de API externa
+* Visualización de datos
+* Selección de animales
+* Envío de información vía mail
+
+🔗 Ver proyecto: *([Mars API en GitHub](https://github.com/camilahurtadoc/M6_Ev_Final_Zoo_App))*
 
 ---
 
